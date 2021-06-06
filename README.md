@@ -8,3 +8,14 @@
 - O conseito de UX Design foi utilizando para ser ter a melhor experiência do usuário final.
 
 ## Imagem do projeto: 
+
+- Aplicação para Desktop
+
+![Desktop](https://i.imgur.com/Xvekutg.png)
+
+- Aplicação para Mobile
+
+![mobile](https://i.imgur.com/fBhU75m.png)
+
+- Novas melhoras serão implementadas no futuro...
+
